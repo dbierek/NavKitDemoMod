@@ -1,0 +1,35 @@
+{
+	"tempHash": "0056406088754691",
+	"tbluHash": "00CF14C55C3BCCA8",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"df5789199552d86d",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pGrid",
+						"value": {
+							"resource": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_scene_atomic.airg].pc_airg",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"caf6f137a7211812",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NavpowerResourceID",
+						"value": {
+							"resource": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_atomic.navp].pc_navp",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

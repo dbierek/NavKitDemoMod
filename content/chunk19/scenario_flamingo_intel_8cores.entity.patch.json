@@ -1,0 +1,21 @@
+{
+	"tempHash": "003D6B2C6225D9F3",
+	"tbluHash": "00347FE485712349",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"339bb156c36e1432",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_NavpowerResourceID",
+						"value": {
+							"resource": "[assembly:/_pro/scenes/missions/miami/scene_flamingo_scene_atomic.airg].pc_navp",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
