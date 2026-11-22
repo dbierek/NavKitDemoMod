@@ -1,433 +1,600 @@
 {
   "navkitVersion": "3.28.3",
-  "generated": "2026-11-22T03:49:01Z",
+  "generated": "2026-11-22T12:15:27Z",
   "missions": [
     {
       "name": "Arrival",
       "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_intro_firsttime.entity",
       "files": [
-        {
-          "path": "content/chunk0/arrival/00F1BA373CABEEE1.NAVP",
-          "hash": "00F1BA373CABEEE1",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk0/arrival/00AAEE8FBE8F706E.AIRG",
-          "hash": "00AAEE8FBE8F706E",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk0/arrival/00F1BA373CABEEE1.NAVP", "hash": "00F1BA373CABEEE1", "type": "NAVP"},
+        {"path": "content/chunk0/arrival/00AAEE8FBE8F706E.AIRG", "hash": "00AAEE8FBE8F706E", "type": "AIRG"}
       ]
     },
     {
       "name": "Guided Training",
       "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002.entity",
       "files": [
-        {
-          "path": "content/chunk0/guided-training/008580C21CD17E97.NAVP",
-          "hash": "008580C21CD17E97",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk0/guided-training/006BFFFEBD9EF640.AIRG",
-          "hash": "006BFFFEBD9EF640",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk0/guided-training/00F8C27069101320.CRMD",
-          "hash": "00F8C27069101320",
-          "type": "CRMD",
-          "crowd": "Crowd"
-        }
+        {"path": "content/chunk0/guided-training/008580C21CD17E97.NAVP", "hash": "008580C21CD17E97", "type": "NAVP"},
+        {"path": "content/chunk0/guided-training/006BFFFEBD9EF640.AIRG", "hash": "006BFFFEBD9EF640", "type": "AIRG"},
+        {"path": "content/chunk0/guided-training/00F8C27069101320.CRMD", "hash": "00F8C27069101320", "type": "CRMD", "crowd": "Crowd"}
       ]
     },
     {
       "name": "Freeform Training",
       "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_b.entity",
       "files": [
-        {
-          "path": "content/chunk0/freeform-training/004DF9EC99F223BF.NAVP",
-          "hash": "004DF9EC99F223BF",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk0/freeform-training/007BE71BE23D4339.AIRG",
-          "hash": "007BE71BE23D4339",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk0/freeform-training/00F8C27069101320.CRMD",
-          "hash": "00F8C27069101320",
-          "type": "CRMD",
-          "crowd": "Crowd"
-        }
+        {"path": "content/chunk0/freeform-training/004DF9EC99F223BF.NAVP", "hash": "004DF9EC99F223BF", "type": "NAVP"},
+        {"path": "content/chunk0/freeform-training/007BE71BE23D4339.AIRG", "hash": "007BE71BE23D4339", "type": "AIRG"}
       ]
     },
     {
       "name": "The Final Test",
       "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005.entity",
       "files": [
-        {
-          "path": "content/chunk0/the-final-test/00E43DDBEDBBECB2.NAVP",
-          "hash": "00E43DDBEDBBECB2",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk0/the-final-test/004BEAE0BF7A38C0.AIRG",
-          "hash": "004BEAE0BF7A38C0",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk0/the-final-test/00E43DDBEDBBECB2.NAVP", "hash": "00E43DDBEDBBECB2", "type": "NAVP"},
+        {"path": "content/chunk0/the-final-test/004BEAE0BF7A38C0.AIRG", "hash": "004BEAE0BF7A38C0", "type": "AIRG"}
       ]
     },
     {
       "name": "The Showstopper",
       "scene": "assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity",
       "files": [
-        {
-          "path": "content/chunk27/the-showstopper/007B3CB603E76F21.NAVP",
-          "hash": "007B3CB603E76F21",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk27/the-showstopper/005D543656F539F3.AIRG",
-          "hash": "005D543656F539F3",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk27/the-showstopper/00AC758DC0E71732.CRMD",
-          "hash": "00AC758DC0E71732",
-          "type": "CRMD",
-          "crowd": "Crowd_Street"
-        }
+        {"path": "content/chunk27/the-showstopper/007B3CB603E76F21.NAVP", "hash": "007B3CB603E76F21", "type": "NAVP"},
+        {"path": "content/chunk27/the-showstopper/005D543656F539F3.AIRG", "hash": "005D543656F539F3", "type": "AIRG"},
+        {"path": "content/chunk27/the-showstopper/00AC758DC0E71732.CRMD", "hash": "00AC758DC0E71732", "type": "CRMD", "crowd": "Crowd_Street"}
       ]
     },
     {
       "name": "World of Tomorrow",
       "scene": "assembly:/_pro/scenes/missions/coastaltown/mission01.entity",
       "files": [
-        {
-          "path": "content/chunk26/world-of-tomorrow/008980F97BE736B2.NAVP",
-          "hash": "008980F97BE736B2",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk26/world-of-tomorrow/00797D4D1C54F393.AIRG",
-          "hash": "00797D4D1C54F393",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk26/world-of-tomorrow/008980F97BE736B2.NAVP", "hash": "008980F97BE736B2", "type": "NAVP"},
+        {"path": "content/chunk26/world-of-tomorrow/00797D4D1C54F393.AIRG", "hash": "00797D4D1C54F393", "type": "AIRG"}
       ]
     },
     {
       "name": "A Gilded Cage",
       "scene": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity",
       "files": [
-        {
-          "path": "content/chunk25/a-gilded-cage/00A93C16274FC503.NAVP",
-          "hash": "00A93C16274FC503",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk25/a-gilded-cage/00C4A3E641A8A645.AIRG",
-          "hash": "00C4A3E641A8A645",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk25/a-gilded-cage/0074C84201319D3B.CRMD",
-          "hash": "0074C84201319D3B",
-          "type": "CRMD",
-          "crowd": "Crowd_Marketplace"
-        },
-        {
-          "path": "content/chunk25/a-gilded-cage/0013CF6825D30B56.CRMD",
-          "hash": "0013CF6825D30B56",
-          "type": "CRMD",
-          "crowd": "Crowd_Plaza"
-        }
+        {"path": "content/chunk25/a-gilded-cage/00A93C16274FC503.NAVP", "hash": "00A93C16274FC503", "type": "NAVP"},
+        {"path": "content/chunk25/a-gilded-cage/00C4A3E641A8A645.AIRG", "hash": "00C4A3E641A8A645", "type": "AIRG"},
+        {"path": "content/chunk25/a-gilded-cage/0074C84201319D3B.CRMD", "hash": "0074C84201319D3B", "type": "CRMD", "crowd": "Crowd_Marketplace"},
+        {"path": "content/chunk25/a-gilded-cage/0013CF6825D30B56.CRMD", "hash": "0013CF6825D30B56", "type": "CRMD", "crowd": "Crowd_Plaza"}
       ]
     },
     {
       "name": "Club 27",
       "scene": "assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity",
       "files": [
-        {
-          "path": "content/chunk24/club-27/00F529F026987939.NAVP",
-          "hash": "00F529F026987939",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk24/club-27/003BFDA176F1BBA3.AIRG",
-          "hash": "003BFDA176F1BBA3",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk24/club-27/00F529F026987939.NAVP", "hash": "00F529F026987939", "type": "NAVP"},
+        {"path": "content/chunk24/club-27/003BFDA176F1BBA3.AIRG", "hash": "003BFDA176F1BBA3", "type": "AIRG"}
       ]
     },
     {
       "name": "Freedom Fighters",
       "scene": "assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity",
       "files": [
-        {
-          "path": "content/chunk23/freedom-fighters/00881B04F36D79D1.NAVP",
-          "hash": "00881B04F36D79D1",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk23/freedom-fighters/008B730EB11C2D80.AIRG",
-          "hash": "008B730EB11C2D80",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk23/freedom-fighters/00881B04F36D79D1.NAVP", "hash": "00881B04F36D79D1", "type": "NAVP"},
+        {"path": "content/chunk23/freedom-fighters/008B730EB11C2D80.AIRG", "hash": "008B730EB11C2D80", "type": "AIRG"}
       ]
     },
     {
       "name": "Situs Inversus",
       "scene": "assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity",
       "files": [
-        {
-          "path": "content/chunk22/situs-inversus/00988E23351E39C6.NAVP",
-          "hash": "00988E23351E39C6",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk22/situs-inversus/00FB73F10C5A2E94.AIRG",
-          "hash": "00FB73F10C5A2E94",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk22/situs-inversus/00988E23351E39C6.NAVP", "hash": "00988E23351E39C6", "type": "NAVP"},
+        {"path": "content/chunk22/situs-inversus/00FB73F10C5A2E94.AIRG", "hash": "00FB73F10C5A2E94", "type": "AIRG"}
       ]
     },
     {
       "name": "Nightcall",
       "scene": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity",
       "files": [
-        {
-          "path": "content/chunk20/nightcall/0001CA5EE712AF8C.NAVP",
-          "hash": "0001CA5EE712AF8C",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk20/nightcall/00FE26E2D758CC95.AIRG",
-          "hash": "00FE26E2D758CC95",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk20/nightcall/0001CA5EE712AF8C.NAVP", "hash": "0001CA5EE712AF8C", "type": "NAVP"},
+        {"path": "content/chunk20/nightcall/00FE26E2D758CC95.AIRG", "hash": "00FE26E2D758CC95", "type": "AIRG"}
       ]
     },
     {
       "name": "The Finish Line",
       "scene": "assembly:/_pro/scenes/missions/miami/scene_flamingo.entity",
       "files": [
-        {
-          "path": "content/chunk19/the-finish-line/00D2FDBAECA402A3.NAVP",
-          "hash": "00D2FDBAECA402A3",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/0020B5A233E776F3.AIRG",
-          "hash": "0020B5A233E776F3",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/00F694A4AD419A32.CRMD",
-          "hash": "00F694A4AD419A32",
-          "type": "CRMD",
-          "crowd": "Center"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/00C809B60C0358B2.CRMD",
-          "hash": "00C809B60C0358B2",
-          "type": "CRMD",
-          "crowd": "Paddock"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/008E37C80599C035.CRMD",
-          "hash": "008E37C80599C035",
-          "type": "CRMD",
-          "crowd": "Crowd PitBuilding"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/009EB60D7DDB492C.CRMD",
-          "hash": "009EB60D7DDB492C",
-          "type": "CRMD",
-          "crowd": "Crowd_StartingArea"
-        },
-        {
-          "path": "content/chunk19/the-finish-line/00111D9EBAC7FDCA.CRMD",
-          "hash": "00111D9EBAC7FDCA",
-          "type": "CRMD",
-          "crowd": "Boardwalk"
-        }
+        {"path": "content/chunk19/the-finish-line/00D2FDBAECA402A3.NAVP", "hash": "00D2FDBAECA402A3", "type": "NAVP"},
+        {"path": "content/chunk19/the-finish-line/0020B5A233E776F3.AIRG", "hash": "0020B5A233E776F3", "type": "AIRG"},
+        {"path": "content/chunk19/the-finish-line/00F694A4AD419A32.CRMD", "hash": "00F694A4AD419A32", "type": "CRMD", "crowd": "Center"},
+        {"path": "content/chunk19/the-finish-line/00C809B60C0358B2.CRMD", "hash": "00C809B60C0358B2", "type": "CRMD", "crowd": "Paddock"},
+        {"path": "content/chunk19/the-finish-line/008E37C80599C035.CRMD", "hash": "008E37C80599C035", "type": "CRMD", "crowd": "Crowd PitBuilding"},
+        {"path": "content/chunk19/the-finish-line/009EB60D7DDB492C.CRMD", "hash": "009EB60D7DDB492C", "type": "CRMD", "crowd": "Crowd_StartingArea"},
+        {"path": "content/chunk19/the-finish-line/00111D9EBAC7FDCA.CRMD", "hash": "00111D9EBAC7FDCA", "type": "CRMD", "crowd": "Boardwalk"}
       ]
     },
     {
       "name": "Three-Headed Serpent",
       "scene": "assembly:/_pro/scenes/missions/colombia/scene_hippo.entity",
       "files": [
-        {
-          "path": "content/chunk18/three-headed-serpent/00634C9191F060A4.NAVP",
-          "hash": "00634C9191F060A4",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk18/three-headed-serpent/00698FA856C1B56C.AIRG",
-          "hash": "00698FA856C1B56C",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk18/three-headed-serpent/00634C9191F060A4.NAVP", "hash": "00634C9191F060A4", "type": "NAVP"},
+        {"path": "content/chunk18/three-headed-serpent/00698FA856C1B56C.AIRG", "hash": "00698FA856C1B56C", "type": "AIRG"}
       ]
     },
     {
       "name": "Chasing a Ghost",
       "scene": "assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity",
       "files": [
-        {
-          "path": "content/chunk17/chasing-a-ghost/00502113C44B93BB.NAVP",
-          "hash": "00502113C44B93BB",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk17/chasing-a-ghost/0038AB47C43CCDA1.AIRG",
-          "hash": "0038AB47C43CCDA1",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk17/chasing-a-ghost/000CAA3DBDDBDD28.CRMD",
-          "hash": "000CAA3DBDDBDD28",
-          "type": "CRMD",
-          "crowd": "Crowd Streets"
-        },
-        {
-          "path": "content/chunk17/chasing-a-ghost/0006FAFD95E3BF1C.CRMD",
-          "hash": "0006FAFD95E3BF1C",
-          "type": "CRMD",
-          "crowd": "TrainYard"
-        }
+        {"path": "content/chunk17/chasing-a-ghost/00502113C44B93BB.NAVP", "hash": "00502113C44B93BB", "type": "NAVP"},
+        {"path": "content/chunk17/chasing-a-ghost/0038AB47C43CCDA1.AIRG", "hash": "0038AB47C43CCDA1", "type": "AIRG"},
+        {"path": "content/chunk17/chasing-a-ghost/000CAA3DBDDBDD28.CRMD", "hash": "000CAA3DBDDBDD28", "type": "CRMD", "crowd": "Crowd Streets"},
+        {"path": "content/chunk17/chasing-a-ghost/0006FAFD95E3BF1C.CRMD", "hash": "0006FAFD95E3BF1C", "type": "CRMD", "crowd": "TrainYard"}
       ]
     },
     {
       "name": "Another Life",
       "scene": "assembly:/_pro/scenes/missions/skunk/scene_skunk.entity",
       "files": [
-        {
-          "path": "content/chunk16/another-life/0053A7F8B6CC7A03.NAVP",
-          "hash": "0053A7F8B6CC7A03",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk16/another-life/00C6D7442A82E79E.AIRG",
-          "hash": "00C6D7442A82E79E",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk16/another-life/0053A7F8B6CC7A03.NAVP", "hash": "0053A7F8B6CC7A03", "type": "NAVP"},
+        {"path": "content/chunk16/another-life/00C6D7442A82E79E.AIRG", "hash": "00C6D7442A82E79E", "type": "AIRG"}
       ]
     },
     {
       "name": "The Ark Society",
       "scene": "assembly:/_pro/scenes/missions/theark/scene_magpie.entity",
       "files": [
-        {
-          "path": "content/chunk15/the-ark-society/00F82512557D8BC3.NAVP",
-          "hash": "00F82512557D8BC3",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk15/the-ark-society/00C1C4B6CF0DCAEC.AIRG",
-          "hash": "00C1C4B6CF0DCAEC",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk15/the-ark-society/002C9D62B4E14CD3.CRMD",
-          "hash": "002C9D62B4E14CD3",
-          "type": "CRMD",
-          "crowd": "Crowd"
-        }
+        {"path": "content/chunk15/the-ark-society/00F82512557D8BC3.NAVP", "hash": "00F82512557D8BC3", "type": "NAVP"},
+        {"path": "content/chunk15/the-ark-society/00C1C4B6CF0DCAEC.AIRG", "hash": "00C1C4B6CF0DCAEC", "type": "AIRG"},
+        {"path": "content/chunk15/the-ark-society/002C9D62B4E14CD3.CRMD", "hash": "002C9D62B4E14CD3", "type": "CRMD", "crowd": "Crowd"}
       ]
     },
     {
       "name": "Golden Handshake",
       "scene": "assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity",
       "files": [
-        {
-          "path": "content/chunk12/golden-handshake/00A1B991D0397A92.NAVP",
-          "hash": "00A1B991D0397A92",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk12/golden-handshake/00E56FC2E79F65D8.AIRG",
-          "hash": "00E56FC2E79F65D8",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk12/golden-handshake/00A1B991D0397A92.NAVP", "hash": "00A1B991D0397A92", "type": "NAVP"},
+        {"path": "content/chunk12/golden-handshake/00E56FC2E79F65D8.AIRG", "hash": "00E56FC2E79F65D8", "type": "AIRG"}
       ]
     },
     {
       "name": "The Last Resort",
       "scene": "assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity",
       "files": [
-        {
-          "path": "content/chunk10/the-last-resort/00ED1C611761DFA9.NAVP",
-          "hash": "00ED1C611761DFA9",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk10/the-last-resort/00F804EBCF92CDC0.AIRG",
-          "hash": "00F804EBCF92CDC0",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk10/the-last-resort/00ED1C611761DFA9.NAVP", "hash": "00ED1C611761DFA9", "type": "NAVP"},
+        {"path": "content/chunk10/the-last-resort/00F804EBCF92CDC0.AIRG", "hash": "00F804EBCF92CDC0", "type": "AIRG"}
       ]
     },
     {
       "name": "On Top of the World",
       "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity",
       "files": [
-        {
-          "path": "content/chunk0/on-top-of-the-world/00C5E2E0AC4A44F6.NAVP",
-          "hash": "00C5E2E0AC4A44F6",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/00D71EFCB40D8A6A.AIRG",
-          "hash": "00D71EFCB40D8A6A",
-          "type": "AIRG"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/00E12DEACBF81108.CRMD",
-          "hash": "00E12DEACBF81108",
-          "type": "CRMD",
-          "crowd": "Crowd_LowerFloor"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/00B0EE7F78935B79.CRMD",
-          "hash": "00B0EE7F78935B79",
-          "type": "CRMD",
-          "crowd": "Crowd_LowerFloor_01"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/000E5EBC0913C0E0.CRMD",
-          "hash": "000E5EBC0913C0E0",
-          "type": "CRMD",
-          "crowd": "Crowd_LowerFloor_02"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/00E02428ED50F2D6.CRMD",
-          "hash": "00E02428ED50F2D6",
-          "type": "CRMD",
-          "crowd": "Crowd_"
-        },
-        {
-          "path": "content/chunk0/on-top-of-the-world/002E8518F3205F15.CRMD",
-          "hash": "002E8518F3205F15",
-          "type": "CRMD",
-          "crowd": "Crowd_UpperFloor"
-        }
+        {"path": "content/chunk0/on-top-of-the-world/00C5E2E0AC4A44F6.NAVP", "hash": "00C5E2E0AC4A44F6", "type": "NAVP"},
+        {"path": "content/chunk0/on-top-of-the-world/00D71EFCB40D8A6A.AIRG", "hash": "00D71EFCB40D8A6A", "type": "AIRG"},
+        {"path": "content/chunk0/on-top-of-the-world/00E12DEACBF81108.CRMD", "hash": "00E12DEACBF81108", "type": "CRMD", "crowd": "Crowd_LowerFloor"},
+        {"path": "content/chunk0/on-top-of-the-world/00B0EE7F78935B79.CRMD", "hash": "00B0EE7F78935B79", "type": "CRMD", "crowd": "Crowd_LowerFloor_01"},
+        {"path": "content/chunk0/on-top-of-the-world/000E5EBC0913C0E0.CRMD", "hash": "000E5EBC0913C0E0", "type": "CRMD", "crowd": "Crowd_LowerFloor_02"},
+        {"path": "content/chunk0/on-top-of-the-world/00E02428ED50F2D6.CRMD", "hash": "00E02428ED50F2D6", "type": "CRMD", "crowd": "Crowd_"},
+        {"path": "content/chunk0/on-top-of-the-world/002E8518F3205F15.CRMD", "hash": "002E8518F3205F15", "type": "CRMD", "crowd": "Crowd_UpperFloor"}
       ]
     },
     {
       "name": "Death in the Family",
       "scene": "assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity",
       "files": [
-        {
-          "path": "content/chunk3/death-in-the-family/002E699011FE27A9.NAVP",
-          "hash": "002E699011FE27A9",
-          "type": "NAVP"
-        },
-        {
-          "path": "content/chunk3/death-in-the-family/00087426DD646847.AIRG",
-          "hash": "00087426DD646847",
-          "type": "AIRG"
-        }
+        {"path": "content/chunk3/death-in-the-family/002E699011FE27A9.NAVP", "hash": "002E699011FE27A9", "type": "NAVP"},
+        {"path": "content/chunk3/death-in-the-family/00087426DD646847.AIRG", "hash": "00087426DD646847", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "The Farewell",
+      "scene": "assembly:/_pro/scenes/missions/elegant/scene_llama.entity",
+      "files": [
+        {"path": "content/chunk5/the-farewell/0088A96FC0E24417.NAVP", "hash": "0088A96FC0E24417", "type": "NAVP"},
+        {"path": "content/chunk5/the-farewell/003241E0FC14135E.AIRG", "hash": "003241E0FC14135E", "type": "AIRG"},
+        {"path": "content/chunk5/the-farewell/00D9A221886A76F1.CRMD", "hash": "00D9A221886A76F1", "type": "CRMD", "crowd": "Parking Lot Crowd"},
+        {"path": "content/chunk5/the-farewell/00B7642B16DCE27B.CRMD", "hash": "00B7642B16DCE27B", "type": "CRMD", "crowd": "Restaurant Crowd"},
+        {"path": "content/chunk5/the-farewell/00A0FF49861C2CF9.CRMD", "hash": "00A0FF49861C2CF9", "type": "CRMD", "crowd": "Tasting Crowd"},
+        {"path": "content/chunk5/the-farewell/004179543C750BA5.CRMD", "hash": "004179543C750BA5", "type": "CRMD", "crowd": "Terrace Crowd"},
+        {"path": "content/chunk5/the-farewell/00A0D219A899BB04.CRMD", "hash": "00A0D219A899BB04", "type": "CRMD", "crowd": "Terrace Crowd 02"}
+      ]
+    },
+    {
+      "name": "Dartmoor: scene_ancestral_harebell",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_ancestral_harebell.entity",
+      "files": [
+        {"path": "content/chunk3/dartmoor-scene-ancestral-harebell/0072B1CA3E7D3037.NAVP", "hash": "0072B1CA3E7D3037", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Dartmoor: scene_ancestral_vesper",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_ancestral_vesper.entity",
+      "files": [
+        {"path": "content/chunk3/dartmoor-scene-ancestral-vesper/0081F0CDA499B5D0.NAVP", "hash": "0081F0CDA499B5D0", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Dartmoor: scene_filur",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_filur.entity",
+      "files": [
+        {"path": "content/chunk3/dartmoor-scene-filur/00C301D11D906009.NAVP", "hash": "00C301D11D906009", "type": "NAVP"},
+        {"path": "content/chunk3/dartmoor-scene-filur/00BDEBFD3D83D437.AIRG", "hash": "00BDEBFD3D83D437", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Dartmoor: scene_hollyhock",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_hollyhock.entity",
+      "files": [
+        {"path": "content/chunk3/dartmoor-scene-hollyhock/00F3BCCA229D92FE.NAVP", "hash": "00F3BCCA229D92FE", "type": "NAVP"},
+        {"path": "content/chunk3/dartmoor-scene-hollyhock/00268B5E2DD9A2D7.AIRG", "hash": "00268B5E2DD9A2D7", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Dartmoor: scene_smoothsnake",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_smoothsnake.entity",
+      "files": [
+        {"path": "content/chunk3/dartmoor-scene-smoothsnake/007E5EF2677D6424.NAVP", "hash": "007E5EF2677D6424", "type": "NAVP"},
+        {"path": "content/chunk3/dartmoor-scene-smoothsnake/00642C41F5FB8534.CRMD", "hash": "00642C41F5FB8534", "type": "CRMD", "crowd": "Garden Crowd"},
+        {"path": "content/chunk3/dartmoor-scene-smoothsnake/0000CAF4C7872E11.CRMD", "hash": "0000CAF4C7872E11", "type": "CRMD", "crowd": "Parking lot Crowd"}
+      ]
+    },
+    {
+      "name": "Bangkok: scene_baiju",
+      "scene": "assembly:/_pro/scenes/missions/bangkok/scene_baiju.entity",
+      "files": [
+        {"path": "content/chunk24/bangkok-scene-baiju/00BCBB6ACC908441.NAVP", "hash": "00BCBB6ACC908441", "type": "NAVP"},
+        {"path": "content/chunk24/bangkok-scene-baiju/003AC103C4BA275E.AIRG", "hash": "003AC103C4BA275E", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Bangkok: scene_zika",
+      "scene": "assembly:/_pro/scenes/missions/bangkok/scene_zika.entity",
+      "files": [
+        {"path": "content/chunk24/bangkok-scene-zika/007977EFBBA0C5FB.NAVP", "hash": "007977EFBBA0C5FB", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Siberia (sniper): scene_falcon_sniper",
+      "scene": "assembly:/_pro/scenes/missions/caged/mission_falcon/scene_falcon_sniper.entity",
+      "files": [
+        {"path": "content/chunk11/siberia-sniper-scene-falcon-sniper/00FA22A5307FC1DF.NAVP", "hash": "00FA22A5307FC1DF", "type": "NAVP"},
+        {"path": "content/chunk11/siberia-sniper-scene-falcon-sniper/00DBD93023172147.AIRG", "hash": "00DBD93023172147", "type": "AIRG"},
+        {"path": "content/chunk11/siberia-sniper-scene-falcon-sniper/009F044BD89AD681.CRMD", "hash": "009F044BD89AD681", "type": "CRMD", "crowd": "Crowd_Riot"}
+      ]
+    },
+    {
+      "name": "Sapienza: _scene_mission_copperhead",
+      "scene": "assembly:/_pro/scenes/missions/coastaltown/_scene_mission_copperhead.entity",
+      "files": [
+        {"path": "content/chunk26/sapienza-scene-mission-copperhead/00E920F30DEF45C1.NAVP", "hash": "00E920F30DEF45C1", "type": "NAVP"},
+        {"path": "content/chunk26/sapienza-scene-mission-copperhead/001A9121FADBDECA.AIRG", "hash": "001A9121FADBDECA", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Sapienza: _scene_mission_mamba",
+      "scene": "assembly:/_pro/scenes/missions/coastaltown/_scene_mission_mamba.entity",
+      "files": [
+        {"path": "content/chunk26/sapienza-scene-mission-mamba/00AC273EDE6FDC08.NAVP", "hash": "00AC273EDE6FDC08", "type": "NAVP"},
+        {"path": "content/chunk26/sapienza-scene-mission-mamba/002BF92D997F21EE.AIRG", "hash": "002BF92D997F21EE", "type": "AIRG"},
+        {"path": "content/chunk26/sapienza-scene-mission-mamba/00D1D24E06CCCE70.CRMD", "hash": "00D1D24E06CCCE70", "type": "CRMD", "crowd": "Crowd"}
+      ]
+    },
+    {
+      "name": "Sapienza: scene_ebola",
+      "scene": "assembly:/_pro/scenes/missions/coastaltown/scene_ebola.entity",
+      "files": [
+        {"path": "content/chunk26/sapienza-scene-ebola/00B7A403A6517E2A.NAVP", "hash": "00B7A403A6517E2A", "type": "NAVP"},
+        {"path": "content/chunk26/sapienza-scene-ebola/00A6ED36104830D3.AIRG", "hash": "00A6ED36104830D3", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Santa Fortuna: scene_anaconda",
+      "scene": "assembly:/_pro/scenes/missions/colombia/scene_anaconda.entity",
+      "files": [
+        {"path": "content/chunk18/santa-fortuna-scene-anaconda/008ABFF1D486D446.NAVP", "hash": "008ABFF1D486D446", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Colorado: scene_rabies",
+      "scene": "assembly:/_pro/scenes/missions/colorado_2/scene_rabies.entity",
+      "files": [
+        {"path": "content/chunk23/colorado-scene-rabies/005909F12271A8AF.NAVP", "hash": "005909F12271A8AF", "type": "NAVP"},
+        {"path": "content/chunk23/colorado-scene-rabies/00A654CE447A332B.AIRG", "hash": "00A654CE447A332B", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Mendoza: scene_frangipani",
+      "scene": "assembly:/_pro/scenes/missions/elegant/scene_frangipani.entity",
+      "files": [
+        {"path": "content/chunk5/mendoza-scene-frangipani/0010E2743614AA35.NAVP", "hash": "0010E2743614AA35", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Mendoza: scene_llama_elusive_clerico",
+      "scene": "assembly:/_pro/scenes/missions/elegant/scene_llama_elusive_clerico.entity",
+      "files": [
+        {"path": "content/chunk5/mendoza-scene-llama-elusive-clerico/00A84AE7F7F28634.NAVP", "hash": "00A84AE7F7F28634", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Mendoza: scene_llama_jacaranda",
+      "scene": "assembly:/_pro/scenes/missions/elegant/scene_llama_jacaranda.entity",
+      "files": [
+        {"path": "content/chunk5/mendoza-scene-llama-jacaranda/00F473319A59EB5F.NAVP", "hash": "00F473319A59EB5F", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Dubai: scene_gecko_angelica",
+      "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_angelica.entity",
+      "files": [
+        {"path": "content/chunk0/dubai-scene-gecko-angelica/00E47D7F53241E9C.NAVP", "hash": "00E47D7F53241E9C", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Dubai: scene_gecko_lunaria",
+      "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_lunaria.entity",
+      "files": [
+        {"path": "content/chunk0/dubai-scene-gecko-lunaria/00AAA615B9876CC9.NAVP", "hash": "00AAA615B9876CC9", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Dubai: scene_gibson",
+      "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gibson.entity",
+      "files": [
+        {"path": "content/chunk0/dubai-scene-gibson/00AC9E1851551E8A.NAVP", "hash": "00AC9E1851551E8A", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Himmelstein (sniper): scene_hawk",
+      "scene": "assembly:/_pro/scenes/missions/hawk/scene_hawk.entity",
+      "files": [
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/0096E3D4DCE02E9D.NAVP", "hash": "0096E3D4DCE02E9D", "type": "NAVP"},
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/00E7E7FA2EC67237.AIRG", "hash": "00E7E7FA2EC67237", "type": "AIRG"},
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/00D16DFBEF7ECD3E.CRMD", "hash": "00D16DFBEF7ECD3E", "type": "CRMD", "crowd": "crowd"},
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/009275C207217E6E.CRMD", "hash": "009275C207217E6E", "type": "CRMD", "crowd": "crowd2"},
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/008422F7151C8CEC.CRMD", "hash": "008422F7151C8CEC", "type": "CRMD", "crowd": "crowd3"},
+        {"path": "content/chunk14/himmelstein-sniper-scene-hawk/00B54F5F9B2FCDFB.CRMD", "hash": "00B54F5F9B2FCDFB", "type": "CRMD", "crowd": "crowd4"}
+      ]
+    },
+    {
+      "name": "Hokkaido: _scene_flu",
+      "scene": "assembly:/_pro/scenes/missions/hokkaido/_scene_flu.entity",
+      "files": [
+        {"path": "content/chunk22/hokkaido-scene-flu/00BA2346CFA4AE72.NAVP", "hash": "00BA2346CFA4AE72", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Hokkaido: scene_bellini",
+      "scene": "assembly:/_pro/scenes/missions/hokkaido/scene_bellini.entity",
+      "files": [
+        {"path": "content/chunk22/hokkaido-scene-bellini/00DBD60D3A7CD1B0.NAVP", "hash": "00DBD60D3A7CD1B0", "type": "NAVP"},
+        {"path": "content/chunk22/hokkaido-scene-bellini/00C36770B690E594.AIRG", "hash": "00C36770B690E594", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Marrakesh: _scene_mission_python",
+      "scene": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python.entity",
+      "files": [
+        {"path": "content/chunk25/marrakesh-scene-mission-python/0072DA52D90FC0AD.NAVP", "hash": "0072DA52D90FC0AD", "type": "NAVP"},
+        {"path": "content/chunk25/marrakesh-scene-mission-python/00262BCEDF64C215.AIRG", "hash": "00262BCEDF64C215", "type": "AIRG"},
+        {"path": "content/chunk25/marrakesh-scene-mission-python/00AC6C3B0E7DB04B.CRMD", "hash": "00AC6C3B0E7DB04B", "type": "CRMD", "crowd": "Crowd_Plaza"}
+      ]
+    },
+    {
+      "name": "Marrakesh: scene_spider_hot_mancala",
+      "scene": "assembly:/_pro/scenes/missions/marrakesh/scene_spider_hot_mancala.entity",
+      "files": [
+        {"path": "content/chunk25/marrakesh-scene-spider-hot-mancala/00DD58F010FF8035.NAVP", "hash": "00DD58F010FF8035", "type": "NAVP"},
+        {"path": "content/chunk25/marrakesh-scene-spider-hot-mancala/0072CD9E3B974338.AIRG", "hash": "0072CD9E3B974338", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Miami: scene_cottonmouth",
+      "scene": "assembly:/_pro/scenes/missions/miami/scene_cottonmouth.entity",
+      "files": [
+        {"path": "content/chunk19/miami-scene-cottonmouth/00AA5F5FFE44945E.NAVP", "hash": "00AA5F5FFE44945E", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Miami: scene_et_sambuca",
+      "scene": "assembly:/_pro/scenes/missions/miami/scene_et_sambuca.entity",
+      "files": [
+        {"path": "content/chunk19/miami-scene-et-sambuca/00CEC0E7EA90F332.NAVP", "hash": "00CEC0E7EA90F332", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Mumbai: scene_kingcobra",
+      "scene": "assembly:/_pro/scenes/missions/mumbai/scene_kingcobra.entity",
+      "files": [
+        {"path": "content/chunk17/mumbai-scene-kingcobra/0023ED09D72F847F.NAVP", "hash": "0023ED09D72F847F", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Haven Island: scene_opulent_hot_hilo",
+      "scene": "assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_opulent_hot_hilo.entity",
+      "files": [
+        {"path": "content/chunk10/haven-island-scene-opulent-hot-hilo/0082C522173ACA20.NAVP", "hash": "0082C522173ACA20", "type": "NAVP"},
+        {"path": "content/chunk10/haven-island-scene-opulent-hot-hilo/00360519962FEEB2.AIRG", "hash": "00360519962FEEB2", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Haven Island: scene_greentini",
+      "scene": "assembly:/_pro/scenes/missions/opulent/scene_greentini.entity",
+      "files": [
+        {"path": "content/chunk10/haven-island-scene-greentini/0095A61465474618.NAVP", "hash": "0095A61465474618", "type": "NAVP"},
+        {"path": "content/chunk10/haven-island-scene-greentini/005E0DD5A7229087.AIRG", "hash": "005E0DD5A7229087", "type": "AIRG"},
+        {"path": "content/chunk10/haven-island-scene-greentini/00B13BA2511B12B6.CRMD", "hash": "00B13BA2511B12B6", "type": "CRMD", "crowd": "Crowd"}
+      ]
+    },
+    {
+      "name": "Paris: _scene_frenchmartini",
+      "scene": "assembly:/_pro/scenes/missions/paris/_scene_frenchmartini.entity",
+      "files": [
+        {"path": "content/chunk27/paris-scene-frenchmartini/0038FF4EF4F9FDB1.NAVP", "hash": "0038FF4EF4F9FDB1", "type": "NAVP"},
+        {"path": "content/chunk27/paris-scene-frenchmartini/00D147B9750F423F.AIRG", "hash": "00D147B9750F423F", "type": "AIRG"},
+        {"path": "content/chunk27/paris-scene-frenchmartini/0061D5BF4F771B4C.CRMD", "hash": "0061D5BF4F771B4C", "type": "CRMD", "crowd": "Crowd"}
+      ]
+    },
+    {
+      "name": "Ambrose Island: scene_dugong",
+      "scene": "assembly:/_pro/scenes/missions/rocky/scene_dugong.entity",
+      "files": [
+        {"path": "content/chunk28/ambrose-island-scene-dugong/00B67EC300F24587.NAVP", "hash": "00B67EC300F24587", "type": "NAVP"},
+        {"path": "content/chunk28/ambrose-island-scene-dugong/00885F24BB2BDB68.AIRG", "hash": "00885F24BB2BDB68", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Ambrose Island: scene_rocky_hot_poker",
+      "scene": "assembly:/_pro/scenes/missions/rocky/scene_rocky_hot_poker.entity",
+      "files": [
+        {"path": "content/chunk28/ambrose-island-scene-rocky-hot-poker/00FA82B8022B6C9B.NAVP", "hash": "00FA82B8022B6C9B", "type": "NAVP"},
+        {"path": "content/chunk28/ambrose-island-scene-rocky-hot-poker/00630004DAD6D55D.AIRG", "hash": "00630004DAD6D55D", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Ambrose Island: scene_rocky_mild_poker",
+      "scene": "assembly:/_pro/scenes/missions/rocky/scene_rocky_mild_poker.entity",
+      "files": [
+        {"path": "content/chunk28/ambrose-island-scene-rocky-mild-poker/00EB68B0CB7348A3.NAVP", "hash": "00EB68B0CB7348A3", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Hantu Port (sniper): scene_seagull",
+      "scene": "assembly:/_pro/scenes/missions/salty/mission_seagull/scene_seagull.entity",
+      "files": [
+        {"path": "content/chunk13/hantu-port-sniper-scene-seagull/001A26A3DED87D75.NAVP", "hash": "001A26A3DED87D75", "type": "NAVP"},
+        {"path": "content/chunk13/hantu-port-sniper-scene-seagull/00570FA12D544138.AIRG", "hash": "00570FA12D544138", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Hawke's Bay: scene_adonis",
+      "scene": "assembly:/_pro/scenes/missions/sheep/scene_adonis.entity",
+      "files": [
+        {"path": "content/chunk20/hawke-s-bay-scene-adonis/0095F87C1A1D8C33.NAVP", "hash": "0095F87C1A1D8C33", "type": "NAVP"},
+        {"path": "content/chunk20/hawke-s-bay-scene-adonis/006FCE4E51BA236B.AIRG", "hash": "006FCE4E51BA236B", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Hawke's Bay: scene_opuntia",
+      "scene": "assembly:/_pro/scenes/missions/sheep/scene_opuntia.entity",
+      "files": [
+        {"path": "content/chunk20/hawke-s-bay-scene-opuntia/00922E9F3A4B6279.NAVP", "hash": "00922E9F3A4B6279", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Hawke's Bay: scene_shamrock",
+      "scene": "assembly:/_pro/scenes/missions/sheep/scene_shamrock.entity",
+      "files": [
+        {"path": "content/chunk20/hawke-s-bay-scene-shamrock/00032D8EBE2DC474.NAVP", "hash": "00032D8EBE2DC474", "type": "NAVP"},
+        {"path": "content/chunk20/hawke-s-bay-scene-shamrock/00787843D72220EB.AIRG", "hash": "00787843D72220EB", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Whittleton Creek: scene_gartersnake",
+      "scene": "assembly:/_pro/scenes/missions/skunk/scene_gartersnake.entity",
+      "files": [
+        {"path": "content/chunk16/whittleton-creek-scene-gartersnake/00393A7BE417736C.NAVP", "hash": "00393A7BE417736C", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Safehouse: scene_vanilla",
+      "scene": "assembly:/_pro/scenes/missions/snug/scene_vanilla.entity",
+      "files": [
+        {"path": "content/chunk29/safehouse-scene-vanilla/007B459198DF1DDD.NAVP", "hash": "007B459198DF1DDD", "type": "NAVP"},
+        {"path": "content/chunk29/safehouse-scene-vanilla/0020957FCD691405.AIRG", "hash": "0020957FCD691405", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Isle of Sgail: scene_penicillin",
+      "scene": "assembly:/_pro/scenes/missions/theark/scene_penicillin.entity",
+      "files": [
+        {"path": "content/chunk15/isle-of-sgail-scene-penicillin/00AFA4BA3A51D4CA.NAVP", "hash": "00AFA4BA3A51D4CA", "type": "NAVP"},
+        {"path": "content/chunk15/isle-of-sgail-scene-penicillin/0075BF2FAEAF7101.AIRG", "hash": "0075BF2FAEAF7101", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Isle of Sgail: scene_pomada",
+      "scene": "assembly:/_pro/scenes/missions/theark/scene_pomada.entity",
+      "files": [
+        {"path": "content/chunk15/isle-of-sgail-scene-pomada/0020480A10FC4EE7.NAVP", "hash": "0020480A10FC4EE7", "type": "NAVP"},
+        {"path": "content/chunk15/isle-of-sgail-scene-pomada/00C780410EFF8747.AIRG", "hash": "00C780410EFF8747", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "ICA Facility: _scene_mission_polarbear_002_contracts_creation_tutorial",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_002_contracts_creation_tutorial.entity",
+      "files": [
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-002-contracts-creation-tutorial/0024B884D4EE2848.NAVP", "hash": "0024B884D4EE2848", "type": "NAVP"},
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-002-contracts-creation-tutorial/00F0F6D86275BBC5.AIRG", "hash": "00F0F6D86275BBC5", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "ICA Facility: _scene_mission_polarbear_002_for_escalation_",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_002_for_escalation_.entity",
+      "files": [
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-002-for-escalation/00B3E7FB1731124A.NAVP", "hash": "00B3E7FB1731124A", "type": "NAVP"},
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-002-for-escalation/00CB87A5290D210F.AIRG", "hash": "00CB87A5290D210F", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "ICA Facility: _scene_mission_polarbear_module_005_vr_tutorial",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005_vr_tutorial.entity",
+      "files": [
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-module-005-vr-tutorial/00BDFD4B7C42D96E.NAVP", "hash": "00BDFD4B7C42D96E", "type": "NAVP"},
+        {"path": "content/chunk0/ica-facility-scene-mission-polarbear-module-005-vr-tutorial/0002D5B4930D8179.AIRG", "hash": "0002D5B4930D8179", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "ICA Facility: scene_vrtutorial",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/scene_vrtutorial.entity",
+      "files": [
+        {"path": "content/chunk0/ica-facility-scene-vrtutorial/009EFE8424D809A2.NAVP", "hash": "009EFE8424D809A2", "type": "NAVP"},
+        {"path": "content/chunk0/ica-facility-scene-vrtutorial/00EE17FA813C7951.AIRG", "hash": "00EE17FA813C7951", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Carpathian Mountains: scene_bellflower",
+      "scene": "assembly:/_pro/scenes/missions/trapped/scene_bellflower.entity",
+      "files": [
+        {"path": "content/chunk7/carpathian-mountains-scene-bellflower/00B04C9C7B620E08.NAVP", "hash": "00B04C9C7B620E08", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Carpathian Mountains: scene_wolverine",
+      "scene": "assembly:/_pro/scenes/missions/trapped/scene_wolverine.entity",
+      "files": [
+        {"path": "content/chunk7/carpathian-mountains-scene-wolverine/00D809DD346D22DE.NAVP", "hash": "00D809DD346D22DE", "type": "NAVP"},
+        {"path": "content/chunk7/carpathian-mountains-scene-wolverine/003FA7EA2716E4B1.AIRG", "hash": "003FA7EA2716E4B1", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Chongqing: scene_rat_basic",
+      "scene": "assembly:/_pro/scenes/missions/wet/scene_rat_basic.entity",
+      "files": [
+        {"path": "content/chunk6/chongqing-scene-rat-basic/005B906CFDD22FD2.NAVP", "hash": "005B906CFDD22FD2", "type": "NAVP"},
+        {"path": "content/chunk6/chongqing-scene-rat-basic/0081D643B02CE965.AIRG", "hash": "0081D643B02CE965", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Chongqing: scene_rat_elusive_redsnapper",
+      "scene": "assembly:/_pro/scenes/missions/wet/scene_rat_elusive_redsnapper.entity",
+      "files": [
+        {"path": "content/chunk6/chongqing-scene-rat-elusive-redsnapper/00990E660982B841.NAVP", "hash": "00990E660982B841", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Chongqing: scene_wet_azalea",
+      "scene": "assembly:/_pro/scenes/missions/wet/scene_wet_azalea.entity",
+      "files": [
+        {"path": "content/chunk6/chongqing-scene-wet-azalea/0046B213743BD8FE.NAVP", "hash": "0046B213743BD8FE", "type": "NAVP"}
+      ]
+    },
+    {
+      "name": "Chongqing: scene_wet_lambic",
+      "scene": "assembly:/_pro/scenes/missions/wet/scene_wet_lambic.entity",
+      "files": [
+        {"path": "content/chunk6/chongqing-scene-wet-lambic/0027593D73714FAE.NAVP", "hash": "0027593D73714FAE", "type": "NAVP"},
+        {"path": "content/chunk6/chongqing-scene-wet-lambic/00CB081640EE08C4.AIRG", "hash": "00CB081640EE08C4", "type": "AIRG"}
+      ]
+    },
+    {
+      "name": "Chongqing: scene_wet_makoyana",
+      "scene": "assembly:/_pro/scenes/missions/wet/scene_wet_makoyana.entity",
+      "files": [
+        {"path": "content/chunk6/chongqing-scene-wet-makoyana/00ED181666F397A7.NAVP", "hash": "00ED181666F397A7", "type": "NAVP"}
       ]
     }
   ]
