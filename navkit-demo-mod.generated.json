@@ -1,0 +1,434 @@
+{
+  "navkitVersion": "3.28.3",
+  "generated": "2026-11-22T03:49:01Z",
+  "missions": [
+    {
+      "name": "Arrival",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_intro_firsttime.entity",
+      "files": [
+        {
+          "path": "content/chunk0/arrival/00F1BA373CABEEE1.NAVP",
+          "hash": "00F1BA373CABEEE1",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk0/arrival/00AAEE8FBE8F706E.AIRG",
+          "hash": "00AAEE8FBE8F706E",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "Guided Training",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002.entity",
+      "files": [
+        {
+          "path": "content/chunk0/guided-training/008580C21CD17E97.NAVP",
+          "hash": "008580C21CD17E97",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk0/guided-training/006BFFFEBD9EF640.AIRG",
+          "hash": "006BFFFEBD9EF640",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk0/guided-training/00F8C27069101320.CRMD",
+          "hash": "00F8C27069101320",
+          "type": "CRMD",
+          "crowd": "Crowd"
+        }
+      ]
+    },
+    {
+      "name": "Freeform Training",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_b.entity",
+      "files": [
+        {
+          "path": "content/chunk0/freeform-training/004DF9EC99F223BF.NAVP",
+          "hash": "004DF9EC99F223BF",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk0/freeform-training/007BE71BE23D4339.AIRG",
+          "hash": "007BE71BE23D4339",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk0/freeform-training/00F8C27069101320.CRMD",
+          "hash": "00F8C27069101320",
+          "type": "CRMD",
+          "crowd": "Crowd"
+        }
+      ]
+    },
+    {
+      "name": "The Final Test",
+      "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005.entity",
+      "files": [
+        {
+          "path": "content/chunk0/the-final-test/00E43DDBEDBBECB2.NAVP",
+          "hash": "00E43DDBEDBBECB2",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk0/the-final-test/004BEAE0BF7A38C0.AIRG",
+          "hash": "004BEAE0BF7A38C0",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "The Showstopper",
+      "scene": "assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity",
+      "files": [
+        {
+          "path": "content/chunk27/the-showstopper/007B3CB603E76F21.NAVP",
+          "hash": "007B3CB603E76F21",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk27/the-showstopper/005D543656F539F3.AIRG",
+          "hash": "005D543656F539F3",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk27/the-showstopper/00AC758DC0E71732.CRMD",
+          "hash": "00AC758DC0E71732",
+          "type": "CRMD",
+          "crowd": "Crowd_Street"
+        }
+      ]
+    },
+    {
+      "name": "World of Tomorrow",
+      "scene": "assembly:/_pro/scenes/missions/coastaltown/mission01.entity",
+      "files": [
+        {
+          "path": "content/chunk26/world-of-tomorrow/008980F97BE736B2.NAVP",
+          "hash": "008980F97BE736B2",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk26/world-of-tomorrow/00797D4D1C54F393.AIRG",
+          "hash": "00797D4D1C54F393",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "A Gilded Cage",
+      "scene": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity",
+      "files": [
+        {
+          "path": "content/chunk25/a-gilded-cage/00A93C16274FC503.NAVP",
+          "hash": "00A93C16274FC503",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk25/a-gilded-cage/00C4A3E641A8A645.AIRG",
+          "hash": "00C4A3E641A8A645",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk25/a-gilded-cage/0074C84201319D3B.CRMD",
+          "hash": "0074C84201319D3B",
+          "type": "CRMD",
+          "crowd": "Crowd_Marketplace"
+        },
+        {
+          "path": "content/chunk25/a-gilded-cage/0013CF6825D30B56.CRMD",
+          "hash": "0013CF6825D30B56",
+          "type": "CRMD",
+          "crowd": "Crowd_Plaza"
+        }
+      ]
+    },
+    {
+      "name": "Club 27",
+      "scene": "assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity",
+      "files": [
+        {
+          "path": "content/chunk24/club-27/00F529F026987939.NAVP",
+          "hash": "00F529F026987939",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk24/club-27/003BFDA176F1BBA3.AIRG",
+          "hash": "003BFDA176F1BBA3",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "Freedom Fighters",
+      "scene": "assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity",
+      "files": [
+        {
+          "path": "content/chunk23/freedom-fighters/00881B04F36D79D1.NAVP",
+          "hash": "00881B04F36D79D1",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk23/freedom-fighters/008B730EB11C2D80.AIRG",
+          "hash": "008B730EB11C2D80",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "Situs Inversus",
+      "scene": "assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity",
+      "files": [
+        {
+          "path": "content/chunk22/situs-inversus/00988E23351E39C6.NAVP",
+          "hash": "00988E23351E39C6",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk22/situs-inversus/00FB73F10C5A2E94.AIRG",
+          "hash": "00FB73F10C5A2E94",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "Nightcall",
+      "scene": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity",
+      "files": [
+        {
+          "path": "content/chunk20/nightcall/0001CA5EE712AF8C.NAVP",
+          "hash": "0001CA5EE712AF8C",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk20/nightcall/00FE26E2D758CC95.AIRG",
+          "hash": "00FE26E2D758CC95",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "The Finish Line",
+      "scene": "assembly:/_pro/scenes/missions/miami/scene_flamingo.entity",
+      "files": [
+        {
+          "path": "content/chunk19/the-finish-line/00D2FDBAECA402A3.NAVP",
+          "hash": "00D2FDBAECA402A3",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/0020B5A233E776F3.AIRG",
+          "hash": "0020B5A233E776F3",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/00F694A4AD419A32.CRMD",
+          "hash": "00F694A4AD419A32",
+          "type": "CRMD",
+          "crowd": "Center"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/00C809B60C0358B2.CRMD",
+          "hash": "00C809B60C0358B2",
+          "type": "CRMD",
+          "crowd": "Paddock"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/008E37C80599C035.CRMD",
+          "hash": "008E37C80599C035",
+          "type": "CRMD",
+          "crowd": "Crowd PitBuilding"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/009EB60D7DDB492C.CRMD",
+          "hash": "009EB60D7DDB492C",
+          "type": "CRMD",
+          "crowd": "Crowd_StartingArea"
+        },
+        {
+          "path": "content/chunk19/the-finish-line/00111D9EBAC7FDCA.CRMD",
+          "hash": "00111D9EBAC7FDCA",
+          "type": "CRMD",
+          "crowd": "Boardwalk"
+        }
+      ]
+    },
+    {
+      "name": "Three-Headed Serpent",
+      "scene": "assembly:/_pro/scenes/missions/colombia/scene_hippo.entity",
+      "files": [
+        {
+          "path": "content/chunk18/three-headed-serpent/00634C9191F060A4.NAVP",
+          "hash": "00634C9191F060A4",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk18/three-headed-serpent/00698FA856C1B56C.AIRG",
+          "hash": "00698FA856C1B56C",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "Chasing a Ghost",
+      "scene": "assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity",
+      "files": [
+        {
+          "path": "content/chunk17/chasing-a-ghost/00502113C44B93BB.NAVP",
+          "hash": "00502113C44B93BB",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk17/chasing-a-ghost/0038AB47C43CCDA1.AIRG",
+          "hash": "0038AB47C43CCDA1",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk17/chasing-a-ghost/000CAA3DBDDBDD28.CRMD",
+          "hash": "000CAA3DBDDBDD28",
+          "type": "CRMD",
+          "crowd": "Crowd Streets"
+        },
+        {
+          "path": "content/chunk17/chasing-a-ghost/0006FAFD95E3BF1C.CRMD",
+          "hash": "0006FAFD95E3BF1C",
+          "type": "CRMD",
+          "crowd": "TrainYard"
+        }
+      ]
+    },
+    {
+      "name": "Another Life",
+      "scene": "assembly:/_pro/scenes/missions/skunk/scene_skunk.entity",
+      "files": [
+        {
+          "path": "content/chunk16/another-life/0053A7F8B6CC7A03.NAVP",
+          "hash": "0053A7F8B6CC7A03",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk16/another-life/00C6D7442A82E79E.AIRG",
+          "hash": "00C6D7442A82E79E",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "The Ark Society",
+      "scene": "assembly:/_pro/scenes/missions/theark/scene_magpie.entity",
+      "files": [
+        {
+          "path": "content/chunk15/the-ark-society/00F82512557D8BC3.NAVP",
+          "hash": "00F82512557D8BC3",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk15/the-ark-society/00C1C4B6CF0DCAEC.AIRG",
+          "hash": "00C1C4B6CF0DCAEC",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk15/the-ark-society/002C9D62B4E14CD3.CRMD",
+          "hash": "002C9D62B4E14CD3",
+          "type": "CRMD",
+          "crowd": "Crowd"
+        }
+      ]
+    },
+    {
+      "name": "Golden Handshake",
+      "scene": "assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity",
+      "files": [
+        {
+          "path": "content/chunk12/golden-handshake/00A1B991D0397A92.NAVP",
+          "hash": "00A1B991D0397A92",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk12/golden-handshake/00E56FC2E79F65D8.AIRG",
+          "hash": "00E56FC2E79F65D8",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "The Last Resort",
+      "scene": "assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity",
+      "files": [
+        {
+          "path": "content/chunk10/the-last-resort/00ED1C611761DFA9.NAVP",
+          "hash": "00ED1C611761DFA9",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk10/the-last-resort/00F804EBCF92CDC0.AIRG",
+          "hash": "00F804EBCF92CDC0",
+          "type": "AIRG"
+        }
+      ]
+    },
+    {
+      "name": "On Top of the World",
+      "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity",
+      "files": [
+        {
+          "path": "content/chunk0/on-top-of-the-world/00C5E2E0AC4A44F6.NAVP",
+          "hash": "00C5E2E0AC4A44F6",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/00D71EFCB40D8A6A.AIRG",
+          "hash": "00D71EFCB40D8A6A",
+          "type": "AIRG"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/00E12DEACBF81108.CRMD",
+          "hash": "00E12DEACBF81108",
+          "type": "CRMD",
+          "crowd": "Crowd_LowerFloor"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/00B0EE7F78935B79.CRMD",
+          "hash": "00B0EE7F78935B79",
+          "type": "CRMD",
+          "crowd": "Crowd_LowerFloor_01"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/000E5EBC0913C0E0.CRMD",
+          "hash": "000E5EBC0913C0E0",
+          "type": "CRMD",
+          "crowd": "Crowd_LowerFloor_02"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/00E02428ED50F2D6.CRMD",
+          "hash": "00E02428ED50F2D6",
+          "type": "CRMD",
+          "crowd": "Crowd_"
+        },
+        {
+          "path": "content/chunk0/on-top-of-the-world/002E8518F3205F15.CRMD",
+          "hash": "002E8518F3205F15",
+          "type": "CRMD",
+          "crowd": "Crowd_UpperFloor"
+        }
+      ]
+    },
+    {
+      "name": "Death in the Family",
+      "scene": "assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity",
+      "files": [
+        {
+          "path": "content/chunk3/death-in-the-family/002E699011FE27A9.NAVP",
+          "hash": "002E699011FE27A9",
+          "type": "NAVP"
+        },
+        {
+          "path": "content/chunk3/death-in-the-family/00087426DD646847.AIRG",
+          "hash": "00087426DD646847",
+          "type": "AIRG"
+        }
+      ]
+    }
+  ]
+}

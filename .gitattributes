@@ -1,2 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Generated game resources
+*.NAVP binary
+*.AIRG binary
+*.CRMD binary
+*.navp binary
+*.airg binary
+*.crmd binary

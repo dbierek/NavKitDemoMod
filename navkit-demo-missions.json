@@ -1,0 +1,26 @@
+{
+  "missions": [
+    { "name": "Arrival", "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_intro_firsttime.entity" },
+    { "name": "Guided Training", "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002.entity" },
+    { "name": "Freeform Training", "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_002_b.entity" },
+    { "name": "The Final Test", "scene": "assembly:/_pro/scenes/missions/thefacility/_scene_mission_polarbear_module_005.entity" },
+    { "name": "The Showstopper", "scene": "assembly:/_pro/scenes/missions/paris/_scene_fashionshowhit_01.entity" },
+    { "name": "World of Tomorrow", "scene": "assembly:/_pro/scenes/missions/coastaltown/mission01.entity" },
+    { "name": "A Gilded Cage", "scene": "assembly:/_pro/scenes/missions/marrakesh/_scene_mission_spider.entity" },
+    { "name": "Club 27", "scene": "assembly:/_pro/scenes/missions/bangkok/_scene_mission_tiger.entity" },
+    { "name": "Freedom Fighters", "scene": "assembly:/_pro/scenes/missions/colorado_2/_scene_mission_bull.entity" },
+    { "name": "Situs Inversus", "scene": "assembly:/_pro/scenes/missions/hokkaido/_scene_mission_snowcrane.entity" },
+    { "name": "Nightcall", "scene": "assembly:/_pro/scenes/missions/sheep/scene_sheep.entity" },
+    { "name": "The Finish Line", "scene": "assembly:/_pro/scenes/missions/miami/scene_flamingo.entity" },
+    { "name": "Three-Headed Serpent", "scene": "assembly:/_pro/scenes/missions/colombia/scene_hippo.entity" },
+    { "name": "Chasing a Ghost", "scene": "assembly:/_pro/scenes/missions/mumbai/scene_mongoose.entity" },
+    { "name": "Another Life", "scene": "assembly:/_pro/scenes/missions/skunk/scene_skunk.entity" },
+    { "name": "The Ark Society", "scene": "assembly:/_pro/scenes/missions/theark/scene_magpie.entity" },
+    { "name": "Golden Handshake", "scene": "assembly:/_pro/scenes/missions/greedy/mission_raccoon/scene_raccoon_basic.entity" },
+    { "name": "The Last Resort", "scene": "assembly:/_pro/scenes/missions/opulent/mission_stingray/scene_stingray_basic.entity" },
+    { "name": "On Top of the World", "scene": "assembly:/_pro/scenes/missions/golden/mission_gecko/scene_gecko_basic.entity" },
+    { "name": "Death in the Family", "scene": "assembly:/_pro/scenes/missions/ancestral/scene_bulldog.entity" },
+    { "name": "Apex Predator", "scene": "assembly:/_pro/scenes/missions/edgy/mission_fox/scene_fox_basic.entity" },
+    { "name": "The Farewell", "scene": "assembly:/_pro/scenes/missions/elegant/scene_llama.entity" }
+  ]
+}
